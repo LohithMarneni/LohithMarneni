@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Lohith Marneni</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Web developer and Machine Learning 
+Enthusiastic from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohithmarneni&label=Profile%20views&color=0e75b6&style=flat" alt="lohithmarneni" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lohith_marneni" target="blank"><img src="https://img.shields.io/twitter/follow/lohith_marneni?logo=twitter&style=for-the-badge" alt="lohith_marneni" /></a> </p>
 
-- 🔭 I’m currently working on **Fraud Detection in Credit Card Transactions**
+<!--- 🔭 I’m currently working on ****-->
 
-- 🌱 I’m currently learning **data analysis on python**
+- 🌱 I’m currently on a journey to learn **PHP**. Diving deep into this versatile server-side scripting language, I aim to harness its power for creating dynamic and interactive web applications.
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lohith-marneni-80a239254/](https://www.linkedin.com/in/lohith-marneni-80a239254/)
 
-- 💬 Ask me about **data analysis**
+- 💬 Ask me about **Web Development** and **Data Analysis using Python**.
 
 - 📫 How to reach me **lohith.marneni@gmail.com**
 
